@@ -5,6 +5,7 @@
 .classpath
 .project
 .vscode/
+bin/
 
 ### Java ###
 # Compiled class file
